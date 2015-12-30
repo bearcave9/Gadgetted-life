@@ -6,6 +6,4 @@ A detailed write-up will be posted every week about their working and techologie
 
 Content:~
 
-1. RFID Tags
-2. Microwave oven
-3. 
+1. 
