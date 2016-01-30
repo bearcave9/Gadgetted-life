@@ -6,4 +6,5 @@ A detailed write-up will be posted every week about their working and techologie
 
 Content:~
 
-1. 
+1. The One-Time Pad (OTP)
+2. 
