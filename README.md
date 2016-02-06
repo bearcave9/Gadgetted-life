@@ -1,7 +1,15 @@
 # Gadgetted-life
 
-The idea is to study and analyse the tech-startups and innovative tech-companies-----the products, the ideas & technologies , their revenue model etc.
+The idea is to study and analyse the tech-startups -- ideas, implementation, technological stack, revenue model etc.
 
-A detailed entry will be posted here about new startups in India and elsewhere. Stay tuned.
 
-1. 
+1. OYO Rooms
+2. Ola cabs
+3. Razorpay
+4. Delhivery
+5. Practo
+6. Paytm
+7. Zomato
+8. commonFloor
+9. InMobi
+10. 
